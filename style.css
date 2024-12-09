@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Styling */
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 2rem 0;
+}
+
+header .container {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+/* Navigation Styling */
+nav {
+    background-color: #f0f0f0;
+    padding: 1rem 0;
+}
+
+nav ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 1rem;
+}
+
+nav a {
+    text-decoration: none;
+    color: #333;
+}
+
+/* Main Content Styling */
+main {
+    padding: 2rem 0;
+}
+
+main .container {
+    max-width: 960px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* Hero Image Styling */
+main img {
+    max-width: 80%;
+    height: auto;
+    margin-bottom: 1rem;
+}
